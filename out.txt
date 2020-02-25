@@ -1,0 +1,16 @@
+Group 1:	France         	Spain          	Costa_Rica     	Australia      	
+
+Group 2:	Germany        	Peru           	Tunisia        	Serbia         	
+
+Group 3:	Argentina      	Mexico         	Senegal        	South_Korea    	
+
+Group 4:	Brazil         	England        	Denmark        	Nigeria        	
+
+Group 5:	Belgium        	Switzerland    	Egypt          	Japan          	
+
+Group 6:	Portugal       	Croatia        	Iran           	Panama         	
+
+Group 7:	Russia         	Uruguay        	Iceland        	Morocco        	
+
+Group 8:	Poland         	Colombia       	Sweden         	Saudi_Arabia   	
+
